@@ -2,8 +2,8 @@
 - 👀 I’m interested in Machine Learning, Data Science, GenerativeAI
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me pac14jan@gmail.com  
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
